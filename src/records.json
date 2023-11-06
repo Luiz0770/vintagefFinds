@@ -1,0 +1,22 @@
+[{
+        "id": 0,
+        "titulo": "Disco de Vinil",
+        "descricao": "Disco classico para escutar musica antiga.",
+        "preco": "120,00",
+        "img": "https://static.vecteezy.com/system/resources/previews/009/314/454/original/vinyl-record-vector-illustration-isolated-on-white-background-free-png.png"
+    },
+    {
+        "id": 1,
+        "titulo": "Espelho Clássico",
+        "descricao": "Espelho antigo feito para casas clássicas.",
+        "preco": "300,00",
+        "img": "https://3.bp.blogspot.com/-3nlhcPSqq0U/U2fGzRFYT1I/AAAAAAAAMrY/KqZEZ7r0h-0/s1600/Moldura+oval+metal+prata.png"
+    },
+    {
+        "id": 2,
+        "titulo": "Relógio Antigo",
+        "descricao": "Relógio antigo de alta qualidade.",
+        "preco": "100,00",
+        "img": "https://images.tcdn.com.br/img/img_prod/608666/antigo_relogio_cuco_pequeno_alemao_schneider_25869_1_b673dff3068e5afc7f2ea7f1332993e8.png"
+    }
+]
