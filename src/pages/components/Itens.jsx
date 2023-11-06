@@ -8,7 +8,7 @@ function Itens()  {
       {Records.map((Records) => {
         return (
             <div>
-              <Card style={{ width: "18rem" }}>
+              <Card style={{ width: "17rem" }}>
                 <Card.Img
                   variant="top"
                   src={Records.img}

@@ -7,24 +7,22 @@ function Menu() {
   return (
     <>
       <Navbar bg="primary" variant="dark">
-        <Container>
-          <Navbar.Brand href="/">
-            <img
-              alt=""
-              src="/src/assets/vinyl.svg"
-              height="30"
-              className="imagem"
-            />{" "}
-            Vintage Finds
-          </Navbar.Brand>
+        <div className="imagem">
+        <img src="/src/assets/vinyl.svg" height="50" className=""/>
+
+        <Container className="navbar">
+          <Navbar.Brand href="/">Vintage Finds</Navbar.Brand>
           <Nav className="me-auto">
             <Nav.Link href="/">Home</Nav.Link>
             <div className="links">
-            <Nav.Link href="/contato">Cadastro</Nav.Link>
-            <Nav.Link href="/login" slot="end">Login</Nav.Link>
+              <Nav.Link href="/contato">Cadastro</Nav.Link>
+              <Nav.Link href="/login" slot="end">
+                Login
+              </Nav.Link>
             </div>
           </Nav>
         </Container>
+        </div>
       </Navbar>
     </>
   );
